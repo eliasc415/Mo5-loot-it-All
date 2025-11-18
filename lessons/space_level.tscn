@@ -12,10 +12,19 @@ position = Vector2(946, 546)
 [node name="SpaceBackground" parent="." instance=ExtResource("3_e6xy1")]
 
 [node name="Healthpack" parent="." instance=ExtResource("3_etm7e")]
-position = Vector2(1238, 377)
+position = Vector2(971, 714)
 
 [node name="Healthpack2" parent="." instance=ExtResource("3_etm7e")]
-position = Vector2(609, 504)
+position = Vector2(791, 436)
 
 [node name="Healthpack3" parent="." instance=ExtResource("3_etm7e")]
-position = Vector2(1109, 837)
+position = Vector2(1000, 378)
+
+[node name="Healthpack4" parent="." instance=ExtResource("3_etm7e")]
+position = Vector2(1166, 644)
+
+[node name="Healthpack5" parent="." instance=ExtResource("3_etm7e")]
+position = Vector2(785, 648)
+
+[node name="Healthpack6" parent="." instance=ExtResource("3_etm7e")]
+position = Vector2(1141, 468)
