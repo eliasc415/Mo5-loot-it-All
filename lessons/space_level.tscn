@@ -14,4 +14,4 @@ collision_mask = 2
 
 [node name="RandomItemPlacer" parent="." instance=ExtResource("3_etm7e")]
 
-[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+[node name="MusicPlayer" type="AudioStreamPlayer" parent="."]
