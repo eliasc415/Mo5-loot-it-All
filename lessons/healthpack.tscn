@@ -7,7 +7,6 @@
 radius = 26.019224
 
 [node name="Healthpack" type="Area2D" groups=["healing_item"]]
-position = Vector2(1019, 486)
 script = ExtResource("1_tr1cd")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
